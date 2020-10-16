@@ -1,4 +1,4 @@
-<img src="capture1.JPG" alt="Screenshot of functional scheduler app">
+<img src="Capture1.JPG" alt="Screenshot of functional scheduler app">
 
 <a href="https://ethanrmcdowell.github.io/Work-Scheduler/">Link to work scheduler website</a>
 
